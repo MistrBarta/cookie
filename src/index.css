@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.cookie-container {
+  text-align: center;
+}
+
+#cookie {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+#cookie-count {
+  font-size: 24px;
+  margin-top: 20px;
+}
